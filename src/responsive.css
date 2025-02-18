@@ -1,0 +1,395 @@
+/*############## Responsive ################*/
+
+@media(min-width:1200px) and (max-width: 1400px) {
+	.head-bttm .navbar .navbar-nav .nav-item .nav-link {
+        font-size: 13px;
+        padding: 6px 7px;
+    }
+    .banner-inner-section .banner-img {
+        height: 325px;
+    }
+
+}
+
+@media (max-width: 1199.98px) {
+    .head-mid .top-srch {
+        width: 300px;
+    }
+    .head-mid .intro-lst li {
+        padding: 0 10px;
+    }
+    .rt-cate-bx .cate-txt h4 {
+        font-size: 15px;
+    }
+    .rt-cate-bx .cate-txt a {
+        font-size: 14px;
+        margin: 10px 0 0;
+    }
+    .f-bttm .f-menu-lst li {
+        padding: 0 10px;
+    }
+    .inr-ban .banner-title {
+        left: 4%;
+        width: 28%;
+    }
+    .inr-ban .banner-title h3 {
+        font-size: 24px;
+    }
+    .inr-ban .banner-title p {
+        font-size: 14px;
+        margin: 10px 0 0;
+    }
+    .order-accordion .accordion-button h3 {
+        font-size: 15px;
+    }
+    .order-accordion .accordion-button h4 {
+        font-size: 15px;
+    }
+    .order-accordion .btn-success {
+        padding: 6px 8px !important;
+        font-size: 14px !important;
+    }
+    .order-summery-bx .status-bx label {
+        font-size: 15px;
+    }
+    .order-summery-bx .status-bx p {
+        font-size: 18px;
+    }
+    .banner-inner-section .banner-img {
+        height: 270px;
+    }
+    .banner-inner-section .banner-txt {
+        bottom: 8px;
+        width: 100%;
+    }
+    
+}
+
+@media (max-width: 991.98px) {
+    .head-mid .logo {
+        margin-right: 10px;
+    }
+    .head-mid .cart-btn {
+        padding: 5px 5px;
+        font-size: 12px;
+    }
+    .head-bttm {
+        padding: 5px 0;
+    }
+    .rt-cate-bx {
+        width: 33.33%;
+        float: left;
+    }
+    .company-info {
+        padding: 20px 0;
+        justify-content: center;
+    }
+    .company-info .info-bx {
+        width: 30.33%;
+        margin: 10px;
+    }
+    .company-info .info-bx h4 {
+        font-size: 16px;
+    }
+    .banner-inner-section .banner-txt h2 {
+        font-size: 26px;
+    }
+    .banner-inner-section .banner-txt h2 span {
+        font-size: 13px;
+        margin: 8px 0 0;
+    }
+    .cate-area .cate-bx {
+        height: 230px;
+    }
+    .cate-area .cate-bx .cate-text h3 {
+        font-size: 16px;
+    }
+    .btn-success {
+        font-size: 14px !important;
+    }
+    .solution-sec .solution-txt h3 {
+        font-size: 30px;
+    }
+    .solution-sec .solution-txt p {
+        margin: 12px 0 0;
+        padding: 0 30px;
+    }
+    .head-bttm .navbar .navbar-nav .nav-item .nav-link {
+        font-size: 15px;
+        padding: 10px 0;
+    }
+    .product-bx p {
+        font-size: 14px;
+        margin: 0;
+        line-height: 22px;
+    }
+    .inr-ban {
+        height: 200px;
+    }
+    .inr-ban .banner-title {
+        width: 58%;
+    }
+    .inr-ban .banner-title ul {
+        margin: 10px 0 0;
+    }
+    .inr-ban .banner-title ul li {
+        margin-bottom: 4px;
+    }
+    .order-summery-bx .cart-pro-dtls h4 {
+        font-size: 16px;
+    }
+    .order-summery-bx .cart-pro-dtls .price {
+        font-size: 16px;
+        margin-right: 10px;
+    }
+    .order-summery-bx .cart-pro-dtls .quantity {
+        margin-right: 10px;
+    }
+    .order-accordion .accordion-button {
+        padding: 12px 10px;
+    }
+    .track-order-bx {
+        padding: 12px;
+    }
+    .track-order-bx h3 {
+        font-size: 20px;
+    }
+    .track-order-bx p {
+        font-size: 16px;
+    }
+}
+
+@media (max-width: 767.98px) {
+    .head-top .top-cntct-lst {
+        display: none;
+    }
+    .head-mid {
+        padding: 10px 0;
+        position: relative;
+    }
+    .head-mid .d-flex {
+        display: block !important;
+    }
+    .head-mid .cart-btn {
+        position: absolute;
+        top: 20px;
+        right: 10px;
+    }
+    .head-mid .top-srch {
+        margin: 10px 0;
+    }
+    .banner-inner-section {
+        height: 180px;
+    }
+    .banner-inner-section .banner-txt {
+        transform: translateY(0%);
+        width: 90%;
+        bottom: 40px;
+    }
+    .banner-inner-section .banner-txt h2 {
+        font-size: 22px;
+    }
+    .rt-cate-bx {
+        width: 100%;
+        float: none;
+    }
+    .company-info .info-bx {
+        width: 100%;
+    }
+    .main-wrap {
+        padding: 40px 0;
+    }
+    .main-title {
+        font-size: 25px;
+    }
+    .mt-5 {
+        margin-top: 2rem !important;
+    }
+    .cate-area {
+        display: block;
+    }
+    .cate-area .cate-bx {
+        height: 330px;
+        margin-bottom: 20px;
+    }
+    .solution-img {
+        margin: 20px 0 0;
+    }
+    .f-top .ftr-cntct-lst {
+        margin: 30px 0 0;
+        display: block;
+        text-align: center;
+    }
+    .f-top .ftr-cntct-lst li {
+        font-size: 25px;
+        margin: 0 0;
+        display: inline-flex;
+    }
+    .f-bttm{
+        text-align: center;
+    }
+    .f-bttm .d-flex{
+        display: block !important;
+    }
+    .f-bttm .f-menu-lst {
+        margin: 10px 0;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .inr-ban {
+        height: 200px;
+    }
+    .inr-ban .banner-title {
+        width: 92%;
+        padding: 6px;
+        background-color: rgba(0,0,0,.4);
+    }
+    .inr-ban .banner-title p {
+        font-size: 13px;
+        margin: 10px 0 0;
+        line-height: 20px;
+    }
+    .contact-title {
+        margin: 15px 0 0;
+    }
+    .faq-tab .nav-item .nav-link {
+        font-size: 14px;
+        padding: 6px 10px;
+    }
+    .faq-tabcontent {
+        padding: 10px;
+        margin: 20px 0 0;
+    }
+    .login-modal .modal-body {
+        padding: 20px;
+    }
+    .lft-panel {
+        margin-bottom: 20px;
+    }
+    .profile-info {
+        padding: 10px;
+    }
+    .profile-info .user-info .user-img {
+        width: 70px;
+        height: 70px;
+        margin-right: 10px;
+    }
+    .profile-info .user-info h3 {
+        font-size: 16px;
+    }
+    .profile-info .user-info h3 span {
+        font-size: 14px;
+    }
+    .profile-info .user-info {
+        width: 80%;
+    }
+    .btn-edit {
+        padding: 3px 3px !important;
+        font-size: 12px !important;
+    }
+    .btn-edit svg {
+        margin-right: 2px;
+    }
+    .personal-info {
+        padding: 10px;
+    }
+    .personal-info .dtls-info h4 {
+        width: 100%;
+        margin: 10px 0 0;
+    }
+    .total-point-bx {
+        padding: 10px 12px;
+        display: block;
+        text-align: center;
+    }
+    .total-point-bx h3 {
+        margin: 0 0 8px;
+        font-size: 18px;
+        display: inline-flex;
+    }
+    .order-bx {
+        padding: 15px;
+    }
+    .page-title {
+        font-size: 26px;
+    }
+    .order-accordion .accordion-button {
+        display: block;
+    }
+    .order-accordion .accordion-button h3 {
+        margin: 0 0 8px;
+    }
+    .accordion-button::after {
+        position: absolute;
+        right: 10px;
+        top: 12px;
+    }
+    .p-4 {
+        padding: 1rem !important;
+    }
+    .order-summery-bx {
+        display: block;
+    }
+    .order-summery-bx .cart-pro-dtls {
+        width: 100%;
+    }
+    .order-summery-bx .status-bx {
+        width: 100%;
+    }
+    .cart-pro-info {
+        width: 60%;
+    }
+    .order-summery-bx .cart-pro-dtls p {
+        font-size: 14px;
+        line-height: 22px;
+    }
+    .coin img {
+        width: 18px;
+    }
+    .coin {
+        font-size: 16px;
+    }
+    .order-footer {
+        display: block;
+    }
+    .order-footer .collect-point-bx {
+        padding: 10px;
+        width: 100%;
+    }
+    .order-footer .total-price-bx {
+        padding: 10px;
+        width: 100%;
+    }
+    .order-footer .total-price-bx p {
+        font-size: 15px;
+    }
+    .cart-table {
+        width: 450px !important;
+    }
+    .cart-table tr td {
+        padding: 8px;
+    }
+    .cart-table tr td .cart-pro-dtls h4 {
+        font-size: 16px;
+    }
+    .cart-table tr td .cart-pro-dtls p {
+        font-size: 13px;
+        line-height: 18px;
+    }
+    .cart-table tr td .form-select {
+        width: 56px;
+        padding: 4px 15px 4px 4px;
+        background-position: right 0.15rem center;
+    }
+    .card-dtls-bx .card-hdr {
+        padding: 6px;
+    }
+    .card-dtls-bx .card-hdr .form-check .form-check-label {
+        font-size: 14px;
+        margin: 0 0 0 6px;
+    }
+    .title1 {
+        margin: 15px 0 0;
+    }
+
+}
